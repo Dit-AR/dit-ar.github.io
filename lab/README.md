@@ -1,8 +1,9 @@
-Resources to learn on AR implementation:
+# Resources to learn on AR implementation:
 
-AR.js
+## AR.js
+
 https://ar-js-org.github.io/AR.js-Docs/marker-based/
 
-Three.js
-https://www.tutorialspoint.com/threejs/index.htm
+## Three.js
 
+https://www.tutorialspoint.com/threejs/index.htm
