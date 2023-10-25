@@ -1,0 +1,11 @@
+Model Information:
+* title:	G-31395000
+* source:	https://sketchfab.com/3d-models/g-31395000-6ac6eff670e34feaadf7775a1d29a687
+* author:	trendforward (https://sketchfab.com/trendforward)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "G-31395000" (https://sketchfab.com/3d-models/g-31395000-6ac6eff670e34feaadf7775a1d29a687) by trendforward (https://sketchfab.com/trendforward) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
